@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Value-preserving submission exports. This does not rerun any analysis."""
+
 import argparse
 import csv
 import hashlib

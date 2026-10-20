@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Export publication-ready bulk RNA-seq processed tables.
-
-The script is deliberately strict: source columns and Excel worksheet headers must
-match the explicitly reviewed layouts below.  Unknown or missing columns stop the
-run instead of being assigned by position.
-
-The DICER1 featureCounts/rMATS sources live on a different server from the other
-inputs.  Use repeated ``--only`` options to run the relevant tasks on each server,
-then copy the generated files into the same submission staging directory.
-"""
 
 from __future__ import annotations
 

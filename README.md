@@ -1,7 +1,7 @@
-# RNA Microprocessor sequencing analysis
+# Acute depletion resolves shared and separable RNA regulatory functions of DGCR8 and DROSHA beyond canonical miRNA biogenesis
 
-Code used to process and analyze the sequencing datasets associated with the
-RNA Microprocessor study. The repository is organized by assay and target so
+Code used to process and analyze the sequencing datasets associated with this
+study. The repository is organized by assay and target so
 that each deposited GEO dataset can be traced to its primary processing code.
 
 ## Repository layout
